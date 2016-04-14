@@ -1,5 +1,7 @@
 ### LOL stats
 
+I wanted to try out [Highland.js](http://highlandjs.org) so I whipped something together using the [Riot API](https://developer.riotgames.com/).
+
 #### Get started
 ```
 npm install
